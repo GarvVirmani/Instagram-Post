@@ -2,6 +2,11 @@
 
 In this example, we'll simulate the process of creating an Instagram post using JavaScript's callback functions.
 
+
+https://github.com/GarvVirmani/Instagram-Post/assets/131982472/89804397-8df7-4185-aa09-4ad10d2016f8
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Process Overview
 
 The process consists of the following steps:
